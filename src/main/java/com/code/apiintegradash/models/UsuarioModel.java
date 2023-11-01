@@ -26,6 +26,6 @@ public class UsuarioModel implements Serializable {
     private String senha;
     private String telefone;
 
-    private String tipo-usuario;
+    private String tipo_usuario;
 
 }
